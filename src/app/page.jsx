@@ -1,8 +1,7 @@
 "use client";
 
-import React, { useEffect, useState } from "react";
-import Banner from "./components/Banner";
 import Image from "next/image";
+import React, { useEffect, useState } from "react";
 
 const Page = () => {
   const [friends, setFriends] = useState([]);
@@ -14,19 +13,24 @@ const Page = () => {
         const data = await res.json();
         setFriends(data);
       } catch (error) {
-        console.error("Failed to load friends:", error);
+        "Error fetching friends"
       }
     };
 
-    loadFriends();
+    loadFriends(); 
   }, []);
 
   return (
-    <div className="max-w-7xl mx-auto px-4 py-8">
-      
-      {/* 🔝 Banner */}
-      <Banner />
-
+    <div>
+      <div>
+        {friends.map((friend) => (
+          <div key={friend.id}>
+            <div>
+              <Image src={friend.picture} alt={friend.name} width={72} height={72} />
+            </div>
+          </div>
+        ))}
+      </div>
     </div>
   );
 };

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "David Kim",
+    "picture": "https://i.pravatar.cc/300?img=32",
+    "days_since_contact": 62,
+    "status": "almost due",
+    "tags": ["work"]
+  },
+  {
+    "id": 2,
+    "name": "Emma Wilson",
+    "picture": "https://i.pravatar.cc/300?img=47",
+    "days_since_contact": 62,
+    "status": "overdue",
+    "tags": ["family"]
+  },
+  {
+    "id": 3,
+    "name": "Lisa Nakamura",
+    "picture": "https://i.pravatar.cc/300?img=5",
+    "days_since_contact": 62,
+    "status": "overdue",
+    "tags": ["work"]
+  },
+  {
+    "id": 4,
+    "name": "James Wright",
+    "picture": "https://i.pravatar.cc/300?img=15",
+    "days_since_contact": 62,
+    "status": "overdue",
+    "tags": ["hobby", "travel"]
+  },
+  {
+    "id": 5,
+    "name": "David Kim",
+    "picture": "https://i.pravatar.cc/300?img=44",
+    "days_since_contact": 62,
+    "status": "overdue",
+    "tags": ["work"]
+  },
+  {
+    "id": 6,
+    "name": "Emma Wilson",
+    "picture": "https://i.pravatar.cc/300?img=22",
+    "days_since_contact": 62,
+    "status": "on-track",
+    "tags": ["family"]
+  },
+  {
+    "id": 7,
+    "name": "Lisa Nakamura",
+    "picture": "https://i.pravatar.cc/300?img=12",
+    "days_since_contact": 62,
+    "status": "on-track",
+    "tags": ["work"]
+  },
+  {
+    "id": 8,
+    "name": "James Wright",
+    "picture": "https://i.pravatar.cc/300?img=58",
+    "days_since_contact": 62,
+    "status": "almost due",
+    "tags": ["hobby", "travel"]
+  },
+  {
+    "id": 9,
+    "name": "David Kim",
+    "picture": "https://i.pravatar.cc/300?img=29",
+    "days_since_contact": 62,
+    "status": "almost due",
+    "tags": ["work"]
+  },
+  {
+    "id": 10,
+    "name": "Emma Wilson",
+    "picture": "https://i.pravatar.cc/300?img=49",
+    "days_since_contact": 62,
+    "status": "overdue",
+    "tags": ["family"]
+  },
+  {
+    "id": 11,
+    "name": "Lisa Nakamura",
+    "picture": "https://i.pravatar.cc/300?img=48",
+    "days_since_contact": 62,
+    "status": "overdue",
+    "tags": ["work"]
+  },
+  {
+    "id": 12,
+    "name": "James Wright",
+    "picture": "https://i.pravatar.cc/300?img=11",
+    "days_since_contact": 62,
+    "status": "on-track",
+    "tags": ["hobby", "travel"]
+  }
+]
