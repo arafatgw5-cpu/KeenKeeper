@@ -1,98 +1,98 @@
 [
   {
     "id": 1,
-    "name": "David Kim",
-    "picture": "https://i.pravatar.cc/300?img=32",
+    "name": "Emma Wilson",
+    "picture": "https://i.pravatar.cc/150?img=32",
+    "email": "emma.wilson@example.com",
     "days_since_contact": 62,
-    "status": "almost due",
-    "tags": ["work"]
+    "status": "overdue",
+    "tags": ["family", "mentor"],
+    "bio": "Former colleague and a trusted mentor who always gives thoughtful career advice.",
+    "goal": 30,
+    "next_due_date": "2026-02-27"
   },
   {
     "id": 2,
-    "name": "Emma Wilson",
-    "picture": "https://i.pravatar.cc/300?img=47",
-    "days_since_contact": 62,
-    "status": "overdue",
-    "tags": ["family"]
+    "name": "Alex Johnson",
+    "picture": "https://i.pravatar.cc/150?img=12",
+    "email": "alex.johnson@example.com",
+    "days_since_contact": 12,
+    "status": "almost due",
+    "tags": ["college", "close friend"],
+    "bio": "We met in university and still catch up about work, football, and life.",
+    "goal": 14,
+    "next_due_date": "2026-04-26"
   },
   {
     "id": 3,
-    "name": "Lisa Nakamura",
-    "picture": "https://i.pravatar.cc/300?img=5",
-    "days_since_contact": 62,
-    "status": "overdue",
-    "tags": ["work"]
+    "name": "Sophia Lee",
+    "picture": "https://i.pravatar.cc/150?img=47",
+    "email": "sophia.lee@example.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["work", "designer"],
+    "bio": "A creative teammate from my previous internship. We often talk about design and product ideas.",
+    "goal": 21,
+    "next_due_date": "2026-05-10"
   },
   {
     "id": 4,
-    "name": "James Wright",
-    "picture": "https://i.pravatar.cc/300?img=15",
-    "days_since_contact": 62,
+    "name": "Michael Brown",
+    "picture": "https://i.pravatar.cc/150?img=15",
+    "email": "michael.brown@example.com",
+    "days_since_contact": 39,
     "status": "overdue",
-    "tags": ["hobby", "travel"]
+    "tags": ["school", "friend"],
+    "bio": "My old school friend who now lives in another city. We usually reconnect during holidays.",
+    "goal": 30,
+    "next_due_date": "2026-03-15"
   },
   {
     "id": 5,
-    "name": "David Kim",
-    "picture": "https://i.pravatar.cc/300?img=44",
-    "days_since_contact": 62,
-    "status": "overdue",
-    "tags": ["work"]
+    "name": "Olivia Davis",
+    "picture": "https://i.pravatar.cc/150?img=25",
+    "email": "olivia.davis@example.com",
+    "days_since_contact": 18,
+    "status": "almost due",
+    "tags": ["neighbor", "family friend"],
+    "bio": "A family friend and supportive neighbor who checks in during important occasions.",
+    "goal": 20,
+    "next_due_date": "2026-04-30"
   },
   {
     "id": 6,
-    "name": "Emma Wilson",
-    "picture": "https://i.pravatar.cc/300?img=22",
-    "days_since_contact": 62,
+    "name": "Daniel Martinez",
+    "picture": "https://i.pravatar.cc/150?img=67",
+    "email": "daniel.martinez@example.com",
+    "days_since_contact": 7,
     "status": "on-track",
-    "tags": ["family"]
+    "tags": ["gym", "travel"],
+    "bio": "A gym buddy who also loves short trips and outdoor adventures.",
+    "goal": 15,
+    "next_due_date": "2026-05-02"
   },
   {
     "id": 7,
-    "name": "Lisa Nakamura",
-    "picture": "https://i.pravatar.cc/300?img=12",
-    "days_since_contact": 62,
-    "status": "on-track",
-    "tags": ["work"]
+    "name": "Ava Thompson",
+    "picture": "https://i.pravatar.cc/150?img=41",
+    "email": "ava.thompson@example.com",
+    "days_since_contact": 25,
+    "status": "almost due",
+    "tags": ["project", "developer"],
+    "bio": "We collaborated on a coding project and still exchange ideas about frontend development.",
+    "goal": 21,
+    "next_due_date": "2026-04-22"
   },
   {
     "id": 8,
-    "name": "James Wright",
-    "picture": "https://i.pravatar.cc/300?img=58",
-    "days_since_contact": 62,
-    "status": "almost due",
-    "tags": ["hobby", "travel"]
-  },
-  {
-    "id": 9,
-    "name": "David Kim",
-    "picture": "https://i.pravatar.cc/300?img=29",
-    "days_since_contact": 62,
-    "status": "almost due",
-    "tags": ["work"]
-  },
-  {
-    "id": 10,
-    "name": "Emma Wilson",
-    "picture": "https://i.pravatar.cc/300?img=49",
-    "days_since_contact": 62,
-    "status": "overdue",
-    "tags": ["family"]
-  },
-  {
-    "id": 11,
-    "name": "Lisa Nakamura",
-    "picture": "https://i.pravatar.cc/300?img=48",
-    "days_since_contact": 62,
-    "status": "overdue",
-    "tags": ["work"]
-  },
-  {
-    "id": 12,
-    "name": "James Wright",
-    "picture": "https://i.pravatar.cc/300?img=11",
-    "days_since_contact": 62,
+    "name": "James Anderson",
+    "picture": "https://i.pravatar.cc/150?img=54",
+    "email": "james.anderson@example.com",
+    "days_since_contact": 3,
     "status": "on-track",
-    "tags": ["hobby", "travel"]
+    "tags": ["cousin", "gaming"],
+    "bio": "My cousin who enjoys gaming and late-night chats on weekends.",
+    "goal": 10,
+    "next_due_date": "2026-04-20"
   }
 ]
