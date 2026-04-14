@@ -2,24 +2,9 @@
 
 import React, { useEffect, useState } from "react";
 import Banner from "./components/Banner";
-import Image from "next/image";
+// import Image from "next/image";
 
 const Page = () => {
-  const [friends, setFriends] = useState([]);
-
-  useEffect(() => {
-    const loadFriends = async () => {
-      try {
-        const res = await fetch("/friends.json");
-        const data = await res.json();
-        setFriends(data);
-      } catch (error) {
-        console.error("Failed to load friends:", error);
-      }
-    };
-
-    loadFriends();
-  }, []);
 
   return (
     <div className="max-w-7xl mx-auto px-4 py-8">
